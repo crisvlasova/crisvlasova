@@ -37,8 +37,10 @@ OTHERS
 
 📲 How to contact me?
 <br/>
-📨 <a href='mailto:vlasovacristina@gmail.com' alt='linkedin' target='_blank' rel='noopener noreferrer'>Gmail</a>
+📨 <a href='mailto:vlasovacristina@gmail.com' alt='gmail' target='_blank' rel='noopener noreferrer'>Gmail</a>
 <br/>
-🔗<a href='https://www.linkedin.com/in/cristina-mikaela-vlassov-rodiguina-42a0a1236/' alt='linkedin' target='_blank' rel='noopener noreferrer'>Linkedin</a>
+🔗 <a href='https://www.linkedin.com/in/cristina-mikaela-vlassov-rodiguina-42a0a1236/' alt='linkedin' target='_blank' rel='noopener noreferrer'>Linkedin</a>
+<br/>
+👩🏼‍🏭 <a href='https://cristinavlassov.vercel.app' alt='portfolio' target='_blank' rel='noopener noreferrer'>Portfolio</a>
 <br/>
 🤳🏼 +54 9 11-3769-9590
