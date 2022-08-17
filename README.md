@@ -35,7 +35,8 @@ OTHERS
 ▹ Scrum
 ▹ Figma
 
-☁ Soft Skills
+☁ Soft Skills:
+<br/>
 <br/>
 Perseverance ⇌ Innovation ⇌ Agile mindset ⇌ Problem solving ⇌ Sociable
 
