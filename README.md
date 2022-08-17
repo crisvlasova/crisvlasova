@@ -1,4 +1,4 @@
 ﻿# crisvlasova
 Hi! I´m Cristina Vlassov, I´m starting my journey as a Full-Stack developer!
 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>]https://github.com/crisvlasova)
+<a href='https://github.com/crisvlasova' alt='profile'> <img src='https://img.icons8.com/external-filled-outline-berkahicon/344/external-Constellation-astronomy-filled-outline-berkahicon.png' alt='constelation' /> </a>
