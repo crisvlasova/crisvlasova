@@ -1,4 +1,4 @@
-﻿# crisvlasova
+﻿# crisvlasova 👩🏼‍💻
 
 👀 Who I am?
 
@@ -34,6 +34,10 @@ OTHERS
 ▹ Git
 ▹ Scrum
 ▹ Figma
+
+☁ Soft Skills
+⇌ Perseverance ⇌ Innovation ⇌ Agile mindset ⇌ Problem solving ⇌ Sociable
+
 
 📲 How to contact me?
 <br/>
