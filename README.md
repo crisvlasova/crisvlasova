@@ -1,7 +1,5 @@
 ﻿# crisvlasova
 
-<button>En</button>
-
 👀 Who I am?
 
 Hi! I´m Cristina Vlassov and I'm starting my journey as a Full-Stack Developer. I'm 20 years old and I live in Buenos Aires, Argentina. Currently
