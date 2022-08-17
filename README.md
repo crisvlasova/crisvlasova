@@ -1,6 +1,6 @@
 ﻿# crisvlasova
 
-<button onClick={() => alert('hola')}>En</button>
+<button>En</button>
 
 👀 Who I am?
 
