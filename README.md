@@ -36,7 +36,8 @@ OTHERS
 ▹ Figma
 
 ☁ Soft Skills
-⇌ Perseverance ⇌ Innovation ⇌ Agile mindset ⇌ Problem solving ⇌ Sociable
+<br/>
+Perseverance ⇌ Innovation ⇌ Agile mindset ⇌ Problem solving ⇌ Sociable
 
 
 📲 How to contact me?
