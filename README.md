@@ -2,7 +2,7 @@
 
 👀 Who I am?
 
-Hi! I´m Cristina Vlassov and I'm starting my journey as a Full-Stack Developer. I'm 20 years old and I live in Buenos Aires, Argentina. Currently
+Hi! I´m Cristina Vlassov and I'm starting my journey as a Full-Stack Developer. I'm 21 years old and I live in Buenos Aires, Argentina. Currently
 I'm looking for new challenges, new skills and new goals to achieve 💪🏼. I am a hard working and versatile person, being capable of adapting to any environment. I am a fastlearner, always willing to learn new skills. I am friendly, helpful and polite, have a good sense of humour. I am able to work in busy environments and solving problems in a fast and creative way 🎨.
 
 
@@ -14,32 +14,9 @@ All members of this comunity have a lot of tecnical and programming skills, even
 
 🛠 Tech Skills: 
 
-FRONT-END
-▹ JavaScript
-▹ HTML
-▹ CSS
-▹ Bootstrap
-▹ Tailwind
-▹ React.js
-▹ Redux
-
-BACK-END
-▹ Node.js
-▹ Express.js
-▹ SQL
-▹ PostgreSQL
-▹ Sequelize
-
-OTHERS
-▹ Git
-▹ Scrum
-▹ Figma
-
-☁ Soft Skills:
-<br/>
-<br/>
-Perseverance ⇌ Innovation ⇌ Agile mindset ⇌ Problem solving ⇌ Sociable
-
+FRONT-END ▹ JavaScript ▹ HTML ▹ CSS ▹ React.js ▹ Redux
+BACK-END ▹ Node.js ▹ SQL ▹ MySQL ▹ PHP
+OTHERS ▹ Git ▹ Wordpress ▹ Figma ▹ Adobe Suit▹ ActionScript 3.0 
 
 📲 How to contact me?
 <br/>
